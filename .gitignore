@@ -1,7 +1,10 @@
 # Folders
 dumps/*
 scripts/*
+logs_backup/*
 
 # Files
 rom.txt
 notes.txt
+*.gz
+*.encode
